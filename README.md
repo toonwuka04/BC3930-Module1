@@ -4,7 +4,7 @@
 
 ### Tools Needed:
 1. LILYGO ESP32 Board
-2. Arduino IDE
+2. [Arduino IDE](https://www.arduino.cc/en/software)
 3. TFT Espi Library [(Downloadable)](https://github.com/Xinyuan-LilyGO/TTGO-T-Display)  - [Documentation](https://github.com/Bodmer/TFT_eSPI/tree/5793878d24161c1ed23ccb136f8564f332506d53)
 4. USB-c cord
 
