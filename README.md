@@ -5,14 +5,14 @@
 ### Tools Needed:
 1. LILYGO ESP32 Board
 2. Arduino IDE
-3. TFT Espi Library [(Downloadable)](https://github.com/Xinyuan-LilyGO/TTGO-T-Display)  - [Github](https://github.com/Bodmer/TFT_eSPI/tree/5793878d24161c1ed23ccb136f8564f332506d53)
+3. TFT Espi Library [(Downloadable)](https://github.com/Xinyuan-LilyGO/TTGO-T-Display)  - [Documentation](https://github.com/Bodmer/TFT_eSPI/tree/5793878d24161c1ed23ccb136f8564f332506d53)
 4. USB-c cord
 
 ### Code Description 
 
 `setup()` - Initializes the tft library for use and sets display to be landscape mode
 `loop()` - Allows the program to infinitely loop
-`concentricRects()` - 
+`concentricRects()` - Defines colors and establishes two states (open mouth and closed mouth) to alternate between while in a loop. 
 
 
 ### Setup
