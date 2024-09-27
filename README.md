@@ -2,10 +2,20 @@
 
 ## Blog: [Module 1 Project - Laughing Skeleton](https://www.notion.so/Module-1-Project-Laughing-Skeleton-c5bc2b4a9e86439291312e45d721d16d?pvs=4)
 
-### Code Descriptions 
+### Tools Needed:
+1. LILYGO ESP32 Board
+2. Arduino IDE
+3. TFT Espi Library [(Downloadable)](https://github.com/Xinyuan-LilyGO/TTGO-T-Display)  - [Github](https://github.com/Bodmer/TFT_eSPI/tree/5793878d24161c1ed23ccb136f8564f332506d53)
+4. USB-c cord
+
+### Code Description 
+
+`setup()` - Initializes the tft library for use and sets display to be landscape mode
+`loop()` - Allows the program to infinitely loop
+`concentricRects()` - 
+
 
 ### Setup
-
 1. Download the `module1_tio2003.ino` file and open this file in the Arduino IDE application
 2. Connect your ESP32 board to your computer via a USB-C cord
 3. Verify that the file complies in the IDE
